@@ -1,0 +1,5 @@
+**How does the internet work? What happens when you click on a link? **
+
+The internet is a system of millions of computers that make up a network. While the internet is a ton of local networks that send data back and forth it creates a bigger network that is the internet. A computer connects to this network and can request certian data for web pages they want to visit. Computers all have a special address called an IP address that they use to recieve data and send data. 
+
+when you click a URL you are requesting data from a server that runs the website you want to visit. To get this request we use URLs, which are pathways for data to reach an endpoint. In a Url it has the protocol, hostnames, port, and the resource. Using this information your computer communicates with servers that run these ports and request data from them which then returns the data to your computer when you load a new website page.

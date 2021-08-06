@@ -1,0 +1,86 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+.favs{
+	background-color: #FFF133 ;
+	border-color: orange;
+	box-shadow: 3px 3px 3px black;
+	height: 50px;
+	width: 150px;
+	margin: 5px;
+}
+
+.tab{
+	margin-left: 20px;
+	padding: 1px;
+
+}
+
+#title{
+	padding-bottom: 5px;	
+	padding-top: 5px;
+	margin: 0;
+	text-decoration: 2px underline orange;
+}
+
+#pfp{
+	width: 75px;
+	height: 75px;
+	border-radius: 100%;
+	border: 2px solid black;
+	margin: 0px 0px 0px 50px;
+}
+
+#pfpDiv{
+	display: flex;
+	flex-wrap:wrap;
+	padding-top: 25px;
+}
+#mod{
+	border-radius: 5%;
+	border: 1px solid lightslategrey;
+}
+#modesto{
+	text-decoration: 2px underline orange;
+}
+#discrip{
+	padding-top: 10px;
+}
+h3{
+	text-decoration:2px underline orange;
+}
